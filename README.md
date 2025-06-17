@@ -80,7 +80,6 @@ graph TD;
 | File Name                    | Description                                     |
 | ---------------------------- | ----------------------------------------------- |
 | `us_crime_data_final.ipynb`  | Jupyter Notebook with entire workflow           |
-| `Crime Pattern Analysis.pdf` | Report presentation on findings and methodology |
 | `LAPD-Dataset-Link.pdf`      | Data schema and field definitions               |
 
 ---
